@@ -16,7 +16,7 @@ button {
 header {
     display:flex;
     justify-content: space-between;
-    padding-top: 2%;
+    padding-top: 1%;
 }
 
 #HighScores:hover {
@@ -33,7 +33,7 @@ h2 {
 }
 
 #question {
-    margin-bottom: 8%;
+    margin-bottom: 4%;
     height: 100%;
 }
 
