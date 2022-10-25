@@ -23,7 +23,8 @@ The user can begin a quiz to test their coding skills by clicking a play button.
 
 
 Website URL: https://mtownsend509.github.io/Coding-Quiz/
-Website Screenshot: 
+Website Screenshot: ![Quiz Picture](https://user-images.githubusercontent.com/111660791/197691518-71a73525-bed5-4a1c-a963-94e63276f78a.PNG)
+
 
 
 ## Credits
